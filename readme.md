@@ -1,2 +1,2 @@
 # Html 
-Basics coding for simple Tabels & Forms
+Basics coding for simple Tabels & Forms.
